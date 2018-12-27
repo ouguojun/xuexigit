@@ -7,6 +7,8 @@ class TextGit {
 
     val classz = "asdf"
 
+    val aeasdf="eeeee"
+
     fun a1() {
 
     }
