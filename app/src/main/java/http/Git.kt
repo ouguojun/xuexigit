@@ -3,7 +3,9 @@ package http
 class TextGit {
     val age = 45
 
-    val name="ooguojun"
+    val name = "ooguojun"
+
+    val classz = "asdf"
 
     fun a1() {
 
