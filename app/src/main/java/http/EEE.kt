@@ -10,4 +10,8 @@ class EEE<out T : TextGit> {
 
     }
 
+    fun tb3(){
+
+    }
+
 }
