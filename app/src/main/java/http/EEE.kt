@@ -9,6 +9,8 @@ class EEE<out T : TextGit> {
 
     val tb2="tb2"
 
+    val tb3="tb3"
+
 
     fun branch1() {
 
