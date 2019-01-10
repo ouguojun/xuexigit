@@ -8,7 +8,7 @@ class EEE<out T : TextGit> {
     }
 
     fun branch1() {
-
+        val a=28
     }
 
     fun branch2() {
@@ -18,7 +18,5 @@ class EEE<out T : TextGit> {
     fun tb3(){
 
     }
-
-
 
 }
