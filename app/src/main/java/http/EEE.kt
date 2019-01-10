@@ -13,8 +13,8 @@ class EEE<out T : TextGit> {
 
 
     fun branch1() {
-
         val a=28
+        val a1=28
     }
 
     fun branch2() {
