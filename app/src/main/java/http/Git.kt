@@ -12,6 +12,5 @@ class TextGit {
     }
 
     fun a3(){
-
     }
 }
