@@ -12,7 +12,11 @@ import javax.net.SocketFactory
 import javax.net.ssl.*
 
 object Http {
+
+
+
     var okHttpClient: OkHttpClient
+
 
     init {
         okHttpClient = OkHttpClient.Builder().addNetworkInterceptor {
